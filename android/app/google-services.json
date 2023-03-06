@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "425170258852",
+    "project_id": "push-notifications-b4b3f",
+    "storage_bucket": "push-notifications-b4b3f.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:425170258852:android:57b568d53b90ccad384f31",
+        "android_client_info": {
+          "package_name": "io.ionic.starter"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "425170258852-eljb7m1ub26tafsbomiu0i8t4794a1uq.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA5qfU8ATJa8zLf2eaIIURTLMYy4xnL-vQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "425170258852-eljb7m1ub26tafsbomiu0i8t4794a1uq.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
